@@ -1,0 +1,14 @@
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\bin\Debug\net7.0\Data.deps.json
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\bin\Debug\net7.0\Data.dll
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\bin\Debug\net7.0\Data.pdb
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\Data.dll
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\Data.pdb
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\TaskManagerApi\Data\obj\Debug\net7.0\ref\Data.dll
